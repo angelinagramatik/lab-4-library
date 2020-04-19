@@ -1,0 +1,32 @@
+{
+    "books": [
+      {
+        "id": 1,
+        "picture": "https://images1.penguinrandomhouse.com/cover/9780147509710",
+        "name": "Syndrome E",
+        "author": "Franck Thilliez",
+        "isAvailable": true
+      },
+      {
+        "id": 2,
+        "picture": "https://images3.penguinrandomhouse.com/cover/9780698170230",
+        "name": "Bred to Kill",
+        "author": "Franck Thilliez",
+        "isAvailable": true
+      },
+      {
+        "id": 3,
+        "picture": "https://upload.wikimedia.org/wikipedia/en/e/e4/The_Outsider_by_Stephen_King.jpg",
+        "name": "The Outsider",
+        "author": "Stephen King",
+        "isAvailable": true
+      },
+      {
+        "id": 4,
+        "picture": "https://upload.wikimedia.org/wikipedia/en/1/14/11-22-63.jpg",
+        "name": "11/22/63",
+        "author": "Stephen King",
+        "isAvailable": true
+      }
+    ]
+  }
